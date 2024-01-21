@@ -1,0 +1,38 @@
+[
+  {
+    "lecture_name": "Programming Fundamentals",
+    "lecture_term": 1,
+    "lecture_code": 101,
+    "lecture_teacher": "R. Tanju SIRMEN"
+  },
+  {
+    "lecture_name": "Computer Networking System",
+    "lecture_term": 1,
+    "lecture_code": 102,
+    "lecture_teacher": "Gurkan CAVDAR"
+  },
+  {
+    "lecture_name": "Web Fundamentals",
+    "lecture_term": 2,
+    "lecture_code": 201,
+    "lecture_teacher": "Atakan AKINCI"
+  },
+  {
+    "lecture_name": "Electronic",
+    "lecture_term": 1,
+    "lecture_code": 103,
+    "lecture_teacher": "Huseyin SAHIN"
+  },
+  {
+    "lecture_name": "Operating Systems",
+    "lecture_term": 3,
+    "lecture_code": 301,
+    "lecture_teacher": "R. Tanju SIRMEN"
+  },
+  {
+    "lecture_name": "Object Oriented Programming",
+    "lecture_term": 3,
+    "lecture_code": 302,
+    "lecture_teacher": "Emrah SARICICEK"
+  }
+]

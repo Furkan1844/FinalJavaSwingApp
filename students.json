@@ -1,0 +1,14 @@
+[
+  {
+    "student_term": 2,
+    "student_name": "Furkan",
+    "student_surname": "Demirtas",
+    "student_id": 2021010,
+    "student_lecture": [
+      "Operating Systems",
+      "Computer Networking System",
+      "Object Oriented Programming",
+      "Electronic"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "teacher_surname": "SARICICEK",
+    "teacher_name": "Emrah",
+    "teacher_lecture": ["Object Oriented Programming"],
+    "teacher_id": 1021010
+  },
+  {
+    "teacher_surname": "SIRMEN",
+    "teacher_name": "R. Tanju",
+    "teacher_lecture": ["Programming Fundamentals", "Operating Systems"],
+    "teacher_id": 1021011
+  },
+  {
+    "teacher_surname": "CAVDAR",
+    "teacher_name": "Gurkan",
+    "teacher_lecture": ["Computer Networking System"],
+    "teacher_id": 1021012
+  },
+  {
+    "teacher_surname": "AKINCI",
+    "teacher_name": "Atakan",
+    "teacher_lecture": ["Web Fundamentals"],
+    "teacher_id": 1021013
+  },
+  {
+    "teacher_surname": "SAHIN",
+    "teacher_name": "Huseyin",
+    "teacher_lecture": ["Electronic"],
+    "teacher_id": 1021014
+  },
+  {
+    "teacher_surname": "AKINCI",
+    "teacher_name": "Atakan",
+    "teacher_lecture": ["Web Fundamentals"],
+    "teacher_id": 1021015
+  }
+]
